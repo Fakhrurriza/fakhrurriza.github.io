@@ -27,4 +27,12 @@
     margin-right:2rem;
 }
 
+.jumbotron{
+    background-color: aqua;
+    color: black;
+}
+
+.card-img-top{
+    height: 200px;
+}
 /* end navbar */
